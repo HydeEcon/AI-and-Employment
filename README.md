@@ -47,6 +47,7 @@ What's important here? the R-squared value is significantly high, at 99.5%, mean
 * AWW (Average Weekly Earnings) P-Value = 0.154, statistically insignificant
 * JOIT (Job Openings (in Thousands)) = 0.634, statistically insignificant
 * U-Rate = 0.0, statistically significant
+
 ECI and U-Rate hold the most statistical significance when determining how many people are employed, at least according to this model.  Now lets run a regression, using the AI variable:
 
 <img width="438" height="649" alt="image" src="https://github.com/user-attachments/assets/ae1dd5e6-1acd-44b7-92d0-9d7a54508540" />
@@ -58,6 +59,7 @@ Whats important:
 * JOIT P-Value = 0.055, borderline significant, however technically insignificant
 * U-Rate P-Value = 0.039, significant
 * AI Usage = 0.146, insignificant
+
 With this in mind, we can determing that the amount of AI being used is not statistically significant when predicting the amount of people employed, i.e. AI is not taking jobs (as of yet), at least when compared to other factors like how much empoying someone costs .
 It is very important to keep in mind that these data sets are very small, due to how early AI is in it's development, and while right now we can say that AI doesn't have an impact on jobs, that might change in the future, especially with how fast the development of AI continues.
 
