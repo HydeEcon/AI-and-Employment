@@ -12,17 +12,17 @@ In order to confirm the similarities between EA and Nintendo, I ran a correlatio
 The two employee counts have a ~97% possitive correlation.  With this in mind, let's run the Diff-In-Diff.
 
 To preform the Diff-In-Diff, we are going to look ad the differences in the employement rate before and after AI widespread AI usage:
-EA mean Employment rate before AI: 2.76%
-Nintendo mean Employment rate before AI: 1.73%
+* EA mean Employment rate before AI: 2.76%
+* Nintendo mean Employment rate before AI: 1.73%
 
 Now lets look at the rate after:
-EA mean Employment rate after AI: 6.22%
-Nintendo mean Employment rate after AI: 5.53%
+* EA mean Employment rate after AI: 6.22%
+* Nintendo mean Employment rate after AI: 5.53%
 
 Now for the Diff-In-Diff; we are going to examin the difference in EA's mean employment rate minus Nintendo's difference:
-EA diff: 3.47%
-Nintendo diff: 3.80%
-Diff-In-Diff: -0.33%
+* EA diff: 3.47%
+* Nintendo diff: 3.80%
+* Diff-In-Diff: -0.33%
 
 So what does this mean? It means comparatively, EA had a employment rate was 0.33% lower than Nintendo's after AI usage became widespread.  Overall this number is extremely small (0.0033) and suggests that AI did NOT have a major impact on EA's hiring rate.
 
